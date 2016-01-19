@@ -4,7 +4,7 @@ Cabal-Version:       >= 1.6
 Synopsis:            
 Category:            GHC Plugin
 Description:
-  Reify GHC Core
+  Reify GHC Core into a GADT for further processing
 Author:              Conal Elliott
 Maintainer:          conal@conal.net
 Copyright:           (c) 2016 by Conal Elliott
