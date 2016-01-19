@@ -1,0 +1,14 @@
+reify
+
+-- rhs-of 'foo
+-- up
+-- observe "reified foo"
+-- top
+
+lint-module
+
+-- I think lint-module aborts on failure before getting here
+
+prog
+
+-- rhs-of 'foo

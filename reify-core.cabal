@@ -32,5 +32,7 @@ Library
                     ReifyCore.ShowUtils
                     ReifyCore.Lambda
                     ReifyCore.Reify
+                    ReifyCore.Interactive
+                    ReifyCore.Plugin
                        
   ghc-options:         -Wall
